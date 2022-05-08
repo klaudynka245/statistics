@@ -96,7 +96,7 @@ Niektóre z charakterystyk obu zbiorów są do siebie dość zbliżone, np. wsp�
 		\caption{Histogram zbioru Y}
 	\end{minipage}
 \end{figure}
-Histogramy zbiorów X i Y pokazują liczbę obserwacji poszczególnych wartości kursu. W zbiorze X najczęściej występują wartości ze środka zbioru, z zakresu $1,27-1,33$. Natomiast w zbiorze Y, inaczej niż w przypadku X, mamy dwa najczęściej występujące zakresy: $1,12-13,5$ oraz $1,17-1,185$. Oczywiście są to przybliżone zakresy, odczytane na podstawie wykresu.
+\noindent Histogramy zbiorów X i Y pokazują liczbę obserwacji poszczególnych wartości kursu. W zbiorze X najczęściej występują wartości ze środka zbioru, z zakresu $1,27-1,33$. Natomiast w zbiorze Y, inaczej niż w przypadku X, mamy dwa najczęściej występujące zakresy: $1,12-13,5$ oraz $1,17-1,185$. Oczywiście są to przybliżone zakresy, odczytane na podstawie wykresu.
 %Gęstość
 \begin{figure}[H]
 	\begin{minipage}{.5\linewidth}
@@ -126,7 +126,7 @@ Histogramy zbiorów X i Y pokazują liczbę obserwacji poszczególnych wartości
 		\caption{Dystrybuanta zbioru Y}
 	\end{minipage}
 \end{figure}
-\noindent Dystrybuanta informuje nas o prawdopodobieństwie wystąpienia wartości mniejszych bądź mniejszych od tej, która nas interesuje $P(Z \leq t)$. I tak na przykład szansa, że ze zbioru X otrzymamy wartość $\leq 1,25$ wynosi $\sim 0.1$, w zbiorze Y szansa na otrzymanie tej samej wartości wynosi już $1$.
+\noindent Dystrybuanta informuje nas o prawdopodobieństwie wystąpienia wartości mniejszych bądź mniejszych od tej, która nas interesuje $P(Z \leq t)$. I tak na przykład szansa, że ze zbioru X otrzymamy wartość $\leq 1,25$ wynosi $\sim 0.1$, w zbiorze Y szansa na otrzymanie tej samej lub mniejszej wartości wynosi już $1$.
 %Średnie ucinane
 \begin{figure}[H]
 	\begin{minipage}{.5\linewidth}
@@ -160,13 +160,17 @@ Histogramy zbiorów X i Y pokazują liczbę obserwacji poszczególnych wartości
 		\caption{Średnia winsorowska zbioru Y w zależności od parametru k}
 	\end{minipage}
 \end{figure}
-Średnią winsorowską obliczamy ze wzoru: 
+\noindent Średnią winsorowską obliczamy ze wzoru: 
 \begin{equation}
 	\overline{x_{wk}} = \frac{1}{n}\left[(k+1)x_{k+1}+\sum\limits_{i=k+2}^{n-k-1}x_i + (k+1)x_{n-k}\right]	
 \end{equation}
 Średniej ucinanej i winsorowskiej używamy, by ograniczyć wpływ wartości odstających na naszą analizę.
 	\section{Porównanie}
-	\noindent Korelacja zbiorów jest dość wysoka i wynosi $\sim 0.77$. 
+	\noindent Korelacja zbiorów obliczona za pomocą wzoru na współczynnik korelacji Pearsona:
+	\begin{equation}
+		\tau_{xy} = \cfrac{\sum x_iy_i - n\overline{x}\overline{y}}{(n-1)S_xS_y}, 
+	\end{equation} 
+\noindent gdzie $S_x$ i $S_y$ to odchylenia standardowe odpowiednio zbioru X oraz Y, jest dość wysoka i wynosi $\sim 0.77$. 
 	\begin{figure}[H]
 		\centering
 		\includegraphics[scale=0.7]{XY_sc.PNG}
@@ -189,6 +193,6 @@ Histogramy zbiorów X i Y pokazują liczbę obserwacji poszczególnych wartości
 	\end{figure}
 \noindent Widzimy, że zbiór X ma co najmniej 3 wartości odstające, podczas gdy Y nie ma żadnej. Mediana zbioru X jest przesunięta w stronę pierwszego kwartyla, zbioru Y wydaje się być na dokładnie pomiędzy kwartylami. Najniższa wartość X jest mocniej wysunięta niż najwyższa, podczas gdy Y są rozmieszczone w podobnej odległości od kwartyli. Żaden ze zbiorów nie ma górnej ani dolnej obserwacji ekstremalnej.
 	\section{Podsumowanie}
-	\noindent Zakresy, które przyjmują dane ze zbiorów X i Y nie są bardzo rozległe, dlatego nie obserwujemy ogromnych różnic przy wyliczaniu różnych statystyk, na przykład średnich. Na podstawie analizy wykresów oraz obliczeniu współczynnika korelacji odkryliśmy, że kursy walut EUR i GBP są mocno skorelowane. 
-	Dane zbioru Y są bardziej skupione niż dane zbioru X, który posiada kilka wartości odstających. 
+	\noindent Zakresy, które przyjmują dane ze zbiorów X i Y nie są bardzo rozległe, dlatego nie obserwujemy ogromnych różnic przy wyliczaniu różnych statystyk, na przykład średnich.
+	Dane zbioru Y są bardziej skupione niż dane zbioru X, który posiada kilka wartości odstających.  Na podstawie analizy wykresów oraz obliczeniu współczynnika korelacji odkryliśmy, że kursy walut EUR i GBP są dość silnie skorelowane, co nie dziwi, gdyż kraje, w których walutą jest euro handlują z Wielką Brytanią, co czyni je ściśle ze sobą związanymi. Ponadto w raporcie badamy kursy obu walut w przeliczeniu na dolary, a to staje się ich wspólnym czynnikiem i także wpływa na wartość współczynnika korelacji.
 \end{document}

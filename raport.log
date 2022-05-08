@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.4.17)  8 MAY 2022 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.4.17)  8 MAY 2022 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -922,38 +922,34 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <XY_sc.PNG, id=88, 433.62pt x 289.08pt>
 File: XY_sc.PNG Graphic file (type png)
 <use XY_sc.PNG>
-Package pdftex.def Info: XY_sc.PNG  used on input line 172.
+Package pdftex.def Info: XY_sc.PNG  used on input line 176.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 <X_box.PNG, id=89, 433.62pt x 289.08pt>
 File: X_box.PNG Graphic file (type png)
 <use X_box.PNG>
-Package pdftex.def Info: X_box.PNG  used on input line 180.
+Package pdftex.def Info: X_box.PNG  used on input line 184.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 180--181
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 184--185
  [][] 
  []
 
 <Y_box.PNG, id=90, 433.62pt x 289.08pt>
 File: Y_box.PNG Graphic file (type png)
 <use Y_box.PNG>
-Package pdftex.def Info: Y_box.PNG  used on input line 186.
+Package pdftex.def Info: Y_box.PNG  used on input line 190.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 186--187
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 190--191
  [][] 
  []
 
 
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 178--189
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 182--193
 []$[]$ $ $ $[]$ 
  []
 
-
-Underfull \vbox (badness 5592) has occurred while \output is active []
-
- [5 <./X_wins.png> <./Y_wins.png> <./XY_sc.png>] [6 <./X_box.png> <./Y_box.png>
-]
+[5 <./X_wins.png> <./Y_wins.png> <./XY_sc.png>] [6 <./X_box.png> <./Y_box.png>]
 (./raport.aux)
 Package rerunfilecheck Info: File `raport.out' has not changed.
 (rerunfilecheck)             Checksum: 146226896B542FA82CFF4574DA4C9751;478.
@@ -979,7 +975,7 @@ nts/type1/public/lm/lmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm
 ve/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist
 /fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publi
 c/lm/lmsy8.pfb>
-Output written on raport.pdf (6 pages, 255728 bytes).
+Output written on raport.pdf (6 pages, 257197 bytes).
 PDF statistics:
  159 PDF objects out of 1000 (max. 8388607)
  108 compressed objects within 2 object streams
