@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.4.17)  7 MAY 2022 00:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.4.17)  8 MAY 2022 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -754,220 +754,235 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <X_sc.PNG, id=24, 433.62pt x 289.08pt>
 File: X_sc.PNG Graphic file (type png)
 <use X_sc.PNG>
-Package pdftex.def Info: X_sc.PNG  used on input line 46.
+Package pdftex.def Info: X_sc.PNG  used on input line 50.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 46--47
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
 <Y_sc.PNG, id=26, 433.62pt x 289.08pt>
 File: Y_sc.PNG Graphic file (type png)
 <use Y_sc.PNG>
-Package pdftex.def Info: Y_sc.PNG  used on input line 52.
+Package pdftex.def Info: Y_sc.PNG  used on input line 56.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 52--53
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 56--57
  [][] 
  []
 
 
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 44--55
-[]$[]$ $ $ $[]$ 
- []
-
-<X_hist.PNG, id=27, 433.62pt x 289.08pt>
-File: X_hist.PNG Graphic file (type png)
-<use X_hist.PNG>
-Package pdftex.def Info: X_hist.PNG  used on input line 71.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 71--72
- [][] 
- []
-
-<Y_hist.PNG, id=28, 433.62pt x 289.08pt>
-File: Y_hist.PNG Graphic file (type png)
-<use Y_hist.PNG>
-Package pdftex.def Info: Y_hist.PNG  used on input line 77.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 77--78
- [][] 
- []
-
-
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 69--80
-[]$[]$ $ $ $[]$ 
- []
-
-
-Underfull \vbox (badness 2368) has occurred while \output is active []
-
- [1
-
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./X_sc.png> <./
-Y_sc.png>]
-<X_kde.PNG, id=44, 433.62pt x 289.08pt>
-File: X_kde.PNG Graphic file (type png)
-<use X_kde.PNG>
-Package pdftex.def Info: X_kde.PNG  used on input line 85.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 85--86
- [][] 
- []
-
-<Y_kde.PNG, id=45, 433.62pt x 289.08pt>
-File: Y_kde.PNG Graphic file (type png)
-<use Y_kde.PNG>
-Package pdftex.def Info: Y_kde.PNG  used on input line 91.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 91--92
- [][] 
- []
-
-
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 83--94
-[]$[]$ $ $ $[]$ 
- []
-
-<X_cdf.PNG, id=46, 433.62pt x 289.08pt>
-File: X_cdf.PNG Graphic file (type png)
-<use X_cdf.PNG>
-Package pdftex.def Info: X_cdf.PNG  used on input line 99.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 99--100
- [][] 
- []
-
-<Y_cdf.PNG, id=47, 433.62pt x 289.08pt>
-File: Y_cdf.PNG Graphic file (type png)
-<use Y_cdf.PNG>
-Package pdftex.def Info: Y_cdf.PNG  used on input line 105.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 105--106
- [][] 
- []
-
-
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 97--108
-[]$[]$ $ $ $[]$ 
- []
-
-<X_trim.PNG, id=48, 433.62pt x 289.08pt>
-File: X_trim.PNG Graphic file (type png)
-<use X_trim.PNG>
-Package pdftex.def Info: X_trim.PNG  used on input line 113.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 113--114
- [][] 
- []
-
-<Y_trim.PNG, id=49, 433.62pt x 289.08pt>
-File: Y_trim.PNG Graphic file (type png)
-<use Y_trim.PNG>
-Package pdftex.def Info: Y_trim.PNG  used on input line 119.
-(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 119--120
- [][] 
- []
-
-
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 111--122
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 48--59
 []$[]$ $ $ $[]$ 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./X_hist.png> <./Y_hist.png> <./X_kde.png> <./Y_kde.png>]
-<X_wins.PNG, id=62, 433.62pt x 289.08pt>
+ [1
+
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<X_hist.PNG, id=44, 433.62pt x 289.08pt>
+File: X_hist.PNG Graphic file (type png)
+<use X_hist.PNG>
+Package pdftex.def Info: X_hist.PNG  used on input line 89.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 89--90
+ [][] 
+ []
+
+<Y_hist.PNG, id=45, 433.62pt x 289.08pt>
+File: Y_hist.PNG Graphic file (type png)
+<use Y_hist.PNG>
+Package pdftex.def Info: Y_hist.PNG  used on input line 95.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 95--96
+ [][] 
+ []
+
+
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 87--98
+[]$[]$ $ $ $[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./X_sc.png> <./Y_sc.png>]
+<X_kde.PNG, id=56, 433.62pt x 289.08pt>
+File: X_kde.PNG Graphic file (type png)
+<use X_kde.PNG>
+Package pdftex.def Info: X_kde.PNG  used on input line 104.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 104--105
+ [][] 
+ []
+
+<Y_kde.PNG, id=57, 433.62pt x 289.08pt>
+File: Y_kde.PNG Graphic file (type png)
+<use Y_kde.PNG>
+Package pdftex.def Info: Y_kde.PNG  used on input line 110.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 110--111
+ [][] 
+ []
+
+
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 102--113
+[]$[]$ $ $ $[]$ 
+ []
+
+<X_cdf.PNG, id=58, 433.62pt x 289.08pt>
+File: X_cdf.PNG Graphic file (type png)
+<use X_cdf.PNG>
+Package pdftex.def Info: X_cdf.PNG  used on input line 119.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 119--120
+ [][] 
+ []
+
+<Y_cdf.PNG, id=59, 433.62pt x 289.08pt>
+File: Y_cdf.PNG Graphic file (type png)
+<use Y_cdf.PNG>
+Package pdftex.def Info: Y_cdf.PNG  used on input line 125.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 125--126
+ [][] 
+ []
+
+
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 117--128
+[]$[]$ $ $ $[]$ 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./X_hist.png> <./Y_hist.png> <./X_kde.png> <./Y_kde.png>]
+<X_trim.PNG, id=72, 433.62pt x 289.08pt>
+File: X_trim.PNG Graphic file (type png)
+<use X_trim.PNG>
+Package pdftex.def Info: X_trim.PNG  used on input line 134.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 134--135
+ [][] 
+ []
+
+<Y_trim.PNG, id=73, 433.62pt x 289.08pt>
+File: Y_trim.PNG Graphic file (type png)
+<use Y_trim.PNG>
+Package pdftex.def Info: Y_trim.PNG  used on input line 140.
+(pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
+
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 140--141
+ [][] 
+ []
+
+
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 132--143
+[]$[]$ $ $ $[]$ 
+ []
+
+<X_wins.PNG, id=74, 433.62pt x 289.08pt>
 File: X_wins.PNG Graphic file (type png)
 <use X_wins.PNG>
-Package pdftex.def Info: X_wins.PNG  used on input line 127.
+Package pdftex.def Info: X_wins.PNG  used on input line 153.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 127--128
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 153--154
  [][] 
  []
 
-<Y_wins.PNG, id=63, 433.62pt x 289.08pt>
+<Y_wins.PNG, id=75, 433.62pt x 289.08pt>
 File: Y_wins.PNG Graphic file (type png)
 <use Y_wins.PNG>
-Package pdftex.def Info: Y_wins.PNG  used on input line 133.
+Package pdftex.def Info: Y_wins.PNG  used on input line 159.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 133--134
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 159--160
  [][] 
  []
 
 
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 125--136
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 151--162
 []$[]$ $ $ $[]$ 
  []
 
-<XY_kde.PNG, id=64, 433.62pt x 289.08pt>
-File: XY_kde.PNG Graphic file (type png)
-<use XY_kde.PNG>
-Package pdftex.def Info: XY_kde.PNG  used on input line 142.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./X_cdf.png> <./Y_cdf.png> <./X_trim.png> <./Y_trim.png>]
+<XY_sc.PNG, id=88, 433.62pt x 289.08pt>
+File: XY_sc.PNG Graphic file (type png)
+<use XY_sc.PNG>
+Package pdftex.def Info: XY_sc.PNG  used on input line 172.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
-<X_box.PNG, id=65, 433.62pt x 289.08pt>
+<X_box.PNG, id=89, 433.62pt x 289.08pt>
 File: X_box.PNG Graphic file (type png)
 <use X_box.PNG>
-Package pdftex.def Info: X_box.PNG  used on input line 149.
+Package pdftex.def Info: X_box.PNG  used on input line 180.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 149--150
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 180--181
  [][] 
  []
 
-<Y_box.PNG, id=66, 433.62pt x 289.08pt>
+<Y_box.PNG, id=90, 433.62pt x 289.08pt>
 File: Y_box.PNG Graphic file (type png)
 <use Y_box.PNG>
-Package pdftex.def Info: Y_box.PNG  used on input line 155.
+Package pdftex.def Info: Y_box.PNG  used on input line 186.
 (pdftex.def)             Requested size: 303.53192pt x 202.35461pt.
 
-Overfull \hbox (26.4592pt too wide) in paragraph at lines 155--156
+Overfull \hbox (26.4592pt too wide) in paragraph at lines 186--187
  [][] 
  []
 
 
-Overfull \hbox (16.97197pt too wide) in paragraph at lines 147--158
+Overfull \hbox (16.97197pt too wide) in paragraph at lines 178--189
 []$[]$ $ $ $[]$ 
  []
 
-[3 <./X_cdf.png> <./Y_cdf.png> <./X_trim.png> <./Y_trim.png> <./X_wins.png> <./
-Y_wins.png>] [4 <./XY_kde.png> <./X_box.png> <./Y_box.png>] (./raport.aux)
+
+Underfull \vbox (badness 5592) has occurred while \output is active []
+
+ [5 <./X_wins.png> <./Y_wins.png> <./XY_sc.png>] [6 <./X_box.png> <./Y_box.png>
+]
+(./raport.aux)
 Package rerunfilecheck Info: File `raport.out' has not changed.
 (rerunfilecheck)             Checksum: 146226896B542FA82CFF4574DA4C9751;478.
  ) 
 Here is how much of TeX's memory you used:
- 12413 strings out of 478994
- 188744 string characters out of 5862207
- 510785 words of memory out of 5000000
- 29629 multiletter control sequences out of 15000+600000
+ 12418 strings out of 478994
+ 188778 string characters out of 5862207
+ 511785 words of memory out of 5000000
+ 29630 multiletter control sequences out of 15000+600000
  443963 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,10n,88p,452b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2021/tex
-mf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2021/texmf-dist/fonts/enc/
-dvips/lm/lm-ec.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
-}<c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2021/
-texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2021/texmf-dist/fonts/t
-ype1/public/lm/lmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr1
-2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/20
-21/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist/font
-s/type1/public/lm/lmsy10.pfb>
-Output written on raport.pdf (4 pages, 232687 bytes).
+ 83i,11n,88p,688b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2021
+/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2021/texmf-dist/fonts/
+enc/dvips/lm/lm-mathex.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm
+.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2021/
+texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/t
+ype1/public/lm/lmex10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmm
+i12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive
+/2021/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2021/texmf-dist/fo
+nts/type1/public/lm/lmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm
+/lmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texli
+ve/2021/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2021/texmf-dist
+/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publi
+c/lm/lmsy8.pfb>
+Output written on raport.pdf (6 pages, 255728 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
+ 159 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
  116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
